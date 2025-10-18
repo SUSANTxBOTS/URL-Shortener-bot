@@ -2,11 +2,11 @@ import os
 import aiohttp
 from pyrogram import Client, filters
 
-API_ID = os.environ.get('API_ID')
-API_HASH = os.environ.get('API_HASH')
-BOT_TOKEN = os.environ.get('BOT_TOKEN')
-API_KEY = os.environ.get('API_KEY')
-WEBSITE = os.environ.get('WEBSITE')
+API_ID = os.environ.get('21134445')
+API_HASH = os.environ.get('231c18ea7273824491d6bf05425ab74e')
+BOT_TOKEN = os.environ.get('8462447336:AAGurXMPHtG2fwQSOClkCR-3_HNdXHVi90k')
+API_KEY = os.environ.get('73357436b25f2081dec70221ad5dc8f8c579c467')
+WEBSITE = os.environ.get('shortloop.site')
 
 
 try:
